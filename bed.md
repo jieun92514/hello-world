@@ -1,7 +1,7 @@
 <bed>
   <bedframe>
     <headboard>
-      <particleboard />
+d      <particleboard />
       <fiberboard />
     </headboard>
     <footboard>
